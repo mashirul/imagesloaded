@@ -1,7 +1,7 @@
 {
-  "name": "desandro/imagesloaded",
+  "name": "mashirul/imagesloaded",
   "description": "JavaScript is all like _You images done yet or what?_",
-  "type": "component",
+  "type": "drupal-library",
   "keywords": ["javascript", "library", "images", "loaded", "dom", "ui", "jquery-plugin"],
   "homepage": "http://imagesloaded.desandro.com",
   "license": "MIT",
